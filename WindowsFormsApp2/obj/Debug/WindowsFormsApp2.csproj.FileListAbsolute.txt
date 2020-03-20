@@ -1,0 +1,48 @@
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Isxoqjon\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Isxoqjon\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Isxoqjon\Desktop\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+K:\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+f:\Proyektlar\Yuz tanish orqali eshikni ochib yopish\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
